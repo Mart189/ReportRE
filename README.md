@@ -10,4 +10,4 @@ In this repository, you will find the resources I used:
 - The graphs used and their Stata files
 - Drafts and outlines
 
-This repository may seem overkill for a single paper, but I find it an enjoyable addition to this learning experience (:
+This repository may seem overkill for a simple work, but I find it an enjoyable addition to this learning experience (:
