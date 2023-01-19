@@ -1,0 +1,57 @@
+Measuring resilience across NUTS1 regions of Italy before and troughout Covid-19
+
+Current feasibility of an dynamic resilience index for the application of tailored policies based on the expressed degree of heterogeneous resilience measured by the index regardless of the size of the region considered (EU level or NUTS2 level).
+
+Hypothetical usefulness of such a tool in the event of covid-19. Measureas based on an estimated resilience of the region.
+
+The measure of regional resilience , whether of nuts 1 or finer areas, shouldn’t only represent a retrospective analytical tool to narrate the unfolding of economic adverse shocks, but should be considered an useful (after cautious considerations and weightings and with not-too-strict application) tool for tailoring economic policies to each region or territory, as to say help them recover in an even and impactful way, rather than use a one-fit-all category of policies
+
+**Abstract**
+
+This work aims to evaluate the resilience of Italy's macroregions in the context of the exogenous shock originated from COVID-19 through Martin's sensitivity index and discusses the feasibility of an evaluation process in policy-making based upon the construction of an index that aggregates diverse regional factors in an accurate measure of resilience, permitting easier regionally-tailored and heterogeneous policies weighted on the amount of resilience estimated with said index.
+
+**Introduction**
+
+- Covid-19 recession (Meinen 2021)
+- Resilience and vulnerabiliuty (explained by giannakis 2021 and martin 2016)
+- Spacial differences and grotwh paths (giannakis 2021) how spacial conncetivity affects resilience (giannakis 2021). The economic structure is affected by a pre shock growth path and inherente caracteristichs (Webber 2018)
+- Compound indices and policies (stanikckova 2018 and briguglio 2009) to choose a common and adaptable index
+- It doesnt seem plausible in the short term and without adequate analytical applications the use of the resilience framework in the political economics tool basket.
+- In the first section, I apply the resilience measuring tools to measure the impact and the recovery from the covid-19 induced recession in Italy and its NUTS1 macro-regions, allowing us to confirm wheter the macro-regions response to the aggregate shock is homogeneous or heterogenous. Secondly, we will try to theorize a compound index usable as a tool for economic policies and review the literature that already exist on the topic. What I find in the end is that contemporary techniques of resilience meausure are still inadequate for an aggregate policy usage and further analytical and empirical studies are needed for the resilience framework to have an impactful and even utility for regional and political economy.
+
+**Measuring resilience across principal Italian regions**
+
+- Choosing parameters and explain: using GDP instead of employment because labour market rigidities tend to homogeneity in Italy (cellini torrisi 2014), we use quarterly data because we are interested in the short term implications.
+- Choosing the analytical tools of resistance (sensitivity) and recovery indexes (martin 2016 di pietro 2021), describe them
+- Graphs (Italy series) - homogeinity even with covid19 but not in three cases of shock in its history (Cellini torrisi 2014)
+- Graph 2 (Regions series)
+- Graph 3 Sensitivity scatter (regions)
+
+**********************************************************************************************************Can the resilience framework become a tool in the hand of political economy?**********************************************************************************************************
+
+How policies can be shaped by resilience,  Those policies are recursive (Policies affect resilience and resilience affect policies).
+
+oecd composite index
+
+briguglio
+
+stanicova
+
+Why it can help  (Martin 2016, reggiani 2001) but also why it can’t: is a dangerous concept fatality and apoliticality (Davoudi and porter 2012) (this approach is prone to criticism)
+
+e risposta di (Sunley 2014) (ultimate goal: “the ultimate goal should be to construct a political economy of regional resilience in the full meaning of that term.”)
+
+Martin 2012 pag 14 difficoltà nell’applicare il concetto di resilienza alle policy, tocchiamo la nota dolente
+
+È difficile da applicare il concetto in un sistema dinamico che cambia è proprio lì dove dovrebbe funzionare meglio
+
+**Conclusions**
+
+
+********Data********
+
+- I used a main source of data, the ISTAT. First I used the aggregate GDP (income side) then blabal From the data we can see that the most reduction of GDP was in
+
+Negative hysteresis on central regions?
+
+“descriptive analysis, using case-study’s methods and simple statistical indices (Martin, 2012; Evans and Karecha, 2014; Lagravinese, 2014, on Italy)” (Cellini, 2017, p. 2) (pdf)
